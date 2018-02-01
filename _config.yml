@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+# Site settings
+title: Pacfi Fast Clearence
+email: ceptorico@gmail.com
+description: "Website Development"
+markdown: kramdown
+permalink: /:categories/:title
